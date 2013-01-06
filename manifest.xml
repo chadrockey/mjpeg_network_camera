@@ -1,0 +1,18 @@
+<package>
+  <description brief="mjpeg_network_camera">
+
+     mjpeg_network_camera
+
+  </description>
+  <author>Chad Rockey</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/mjpeg_network_camera</url>
+
+  <depend package="rospy"/>
+  <depend package="std_srvs" />
+  <depend package="sensor_msgs"/>
+
+</package>
+
+
